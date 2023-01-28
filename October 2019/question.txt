@@ -1,2 +1,5 @@
 Question: https://www.janestreet.com/puzzles/tri-tri-again-again/
 Answer Page: https://www.janestreet.com/puzzles/solutions/october-2019-solution/
+
+
+Both pages are redirecting to a 404 page
